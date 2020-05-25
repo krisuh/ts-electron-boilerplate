@@ -1,4 +1,4 @@
-import { assert } from 'chai';
+const { assert } = require('chai');
 
 describe('One plus two', () => {
   it('should equal three', () => {
