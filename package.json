@@ -38,6 +38,6 @@
     "webpack-cli": "3.3.11"
   },
   "dependencies": {
-    "electron": "9.0.0"
+    "electron": "11.5.0"
   }
 }
